@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as o,o as a}from"./C8lpSI9U.js";const c={},n={class:"py-4 px-4 mx-auto h-screen"};function r(l,e){return a(),t("div",n,e[0]||(e[0]=[o("div",{class:"h-full flex justify-center"}," 学习Vue、Nuxt、Tailwind CSS的副产品 ",-1)]))}const i=s(c,[["render",r]]);export{i as default};
