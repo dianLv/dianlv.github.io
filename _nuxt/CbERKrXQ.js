@@ -1,0 +1,1 @@
+import{_ as t,o,c as r,g as n}from"./C90VIbNy.js";const s={},c={class:"font-medium text-lg hover:underline hover:text-primary-600"};function a(e,_){return o(),r("a",c,[n(e.$slots,"default")])}const i=t(s,[["render",a]]);export{i as L};
