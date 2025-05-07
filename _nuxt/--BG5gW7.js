@@ -1,0 +1,1 @@
+import{c as o,a as s,b as t,o as n,_ as c}from"./lmhxwtDf.js";import{_ as a}from"./DlAUqK2U.js";const r={},_={class:"flex grow rounded-none lg:rounded-lg bg-white p-10 shadow-sm ring-1 ring-slate-950/5"},d={class:"container space-y-4 p-4 mx-2"};function i(l,m){const e=c;return n(),o("div",_,[s("section",d,[t(e)])])}const g=a(r,[["render",i]]);export{g as default};
